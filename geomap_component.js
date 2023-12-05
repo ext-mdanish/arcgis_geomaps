@@ -126,7 +126,7 @@
                 // replace the ID below with the ID to your web map
                 const webmap = new WebMap ({
                     portalItem: {
-                        id: "cb02f4f828974670ad01bb83be91b18c"
+                        id: "a0afdc22dea14c2cb6d799c8f5260915"
                     }
                 });
 
